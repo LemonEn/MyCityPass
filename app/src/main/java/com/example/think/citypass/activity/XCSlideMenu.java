@@ -26,7 +26,6 @@ package com.example.think.citypass.activity;
 
 /**
  * 自定义侧滑菜单View
- * @author caizhiming
  *
  */
 public class XCSlideMenu extends HorizontalScrollView{
