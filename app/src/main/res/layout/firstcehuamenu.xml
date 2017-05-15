@@ -22,7 +22,7 @@
             android:layout_height="match_parent"
             android:background="#fff"
             >
-            <include layout="@layout/leftmenu" />
+            <include layout="@layout/botttomview" />
             <TextView
                 android:id="@+id/btnSwitch"
                 android:layout_width="wrap_content"
